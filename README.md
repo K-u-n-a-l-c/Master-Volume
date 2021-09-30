@@ -1,2 +1,2 @@
 # Master-Volume
-A basic project written in C which changes Volume of any audio file by a given factor.
+A basic project written in C which changes Volume of audio file having .wav extention by a given factor.
